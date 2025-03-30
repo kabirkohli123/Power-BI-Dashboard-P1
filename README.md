@@ -28,7 +28,7 @@ This repository contains a Power BI dashboard designed for an e-commerce website
 - Required data sources configured for the dashboard
 
 ## Screenshots
-(Add relevant screenshots of the dashboard here.)
+![E-Commerce Dashboard](screenshot.png)
 
 ## Future Enhancements
 - Integration with live data sources
